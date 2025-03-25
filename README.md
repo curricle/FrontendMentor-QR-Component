@@ -37,4 +37,4 @@ I grew more familiar with using Figma files to replicate designs with HTML/CSS.
 ## Author
 
 - Website - [Steph Jordan](https://jordanmakes.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@curricle](https://www.frontendmentor.io/profile/curricle)
